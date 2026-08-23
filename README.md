@@ -223,7 +223,7 @@ CodeWithHarry is used as a learning resource. The notes, exercises, experiments,
 
 ## 👨‍💻 About Me
 
-I'm Mukhtaar, an IT professional interested in:
+I'm Mohamed, an IT professional interested in:
 
 * IT Support
 * Networking
