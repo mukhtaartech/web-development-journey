@@ -90,6 +90,7 @@ My HTML learning follows the CodeWithHarry HTML learning material while writing 
 ## 📂 Repository Structure
 
 ```text
+00-Web-Fundamentals/  → Understanding the web
 01-HTML/              → HTML learning and exercises
 02-CSS/               → CSS learning
 03-JavaScript/        → JavaScript learning
