@@ -41,7 +41,7 @@ Web Page
 | #  | Topic               | Status        |
 | -- | ------------------- | ------------- |
 | 01 | How Websites Work   | 🟡 Learning   |
-| 02 | Client-Server Model | ⚪ Not Started |
+| 02 | Client-Server Model | 🟡 Learning   |
 | 03 | Web Browsers        | ⚪ Not Started |
 | 04 | Domain Names        | ⚪ Not Started |
 | 05 | DNS                 | ⚪ Not Started |
