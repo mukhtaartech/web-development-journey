@@ -38,10 +38,10 @@ Web Page
 
 ## 📚 Topics
 
-| #  | Topic               | Status        |
-| -- | ------------------- | ------------- |
-| 01 | How Websites Work   | 🟡 Learning   |
-| 02 | Client-Server Model | 🟡 Learning   |
+| #  | Topic               | Status         |
+| -- | ------------------- | -------------- |
+| 01 | How Websites Work   | 🟢 Completed   |
+| 02 | Client-Server Model | 🟢 Completed   |
 | 03 | Web Browsers        | ⚪ Not Started |
 | 04 | Domain Names        | ⚪ Not Started |
 | 05 | DNS                 | ⚪ Not Started |
