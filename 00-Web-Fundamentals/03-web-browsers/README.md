@@ -533,7 +533,7 @@ I also learned that Developer Tools allow me to see what is happening behind the
 
 **Topic:** Web Browsers
 
-**Status:** 🟡 Learning
+**Status:** 🟢 Completed
 
 **Previous:** [Client-Server Model](../02-client-server-model/)
 
