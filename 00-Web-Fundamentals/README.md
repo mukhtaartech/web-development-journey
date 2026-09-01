@@ -42,8 +42,8 @@ Web Page
 | -- | ------------------- | -------------- |
 | 01 | How Websites Work   | 🟢 Completed   |
 | 02 | Client-Server Model | 🟢 Completed   |
-| 03 | Web Browsers        | 🟢 Completed |
-| 04 | Domain Names        | ⚪ Not Started |
+| 03 | Web Browsers        | 🟢 Completed   |
+| 04 | Domain Names        | 🟡 Learning    |
 | 05 | DNS                 | ⚪ Not Started |
 | 06 | Web Hosting         | ⚪ Not Started |
 | 07 | HTTP & HTTPS        | ⚪ Not Started |
