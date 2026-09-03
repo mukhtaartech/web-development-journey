@@ -680,7 +680,7 @@ I learned that:
 
 **Topic:** Domain Names
 
-**Status:** 🟡 Learning
+**Status:** 🟢 Completed
 
 **Previous:** [Web Browsers](../03-web-browsers/)
 
