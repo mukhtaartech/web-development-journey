@@ -885,7 +885,7 @@ to investigate mail-related DNS records.
 
 **Topic:** DNS (Domain Name System)
 
-**Status:** 🟡 Learning
+**Status:** 🟢 Completed
 
 **Previous:** [Domain Names](../04-domain-names/)
 
